@@ -1,7 +1,5 @@
 ### sup bro
 
-**arctroopper/arctroopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arctroopper&show_icons=true&theme=radical)
 
 I'm a 15 yo Brazillian dev, my languages are Python, JavaScript, CSS and HTML
