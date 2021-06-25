@@ -10,7 +10,7 @@ I'm a 15 yo Brazillian dev, my languages are Python, JavaScript, CSS and HTML
 - 🤔 I’m looking for help with PHP... it's kinda hard to me
 - 💬 Ask me about how's my day going :)
 - 📫 How to reach me: Twiiter @arctroopper
-- 😄 Pronouns: Dev/oper
+- 😄 Pronouns: Dev/loper
 
 
 
